@@ -7,3 +7,4 @@ print("sun")
 def fun():
 print("hello world")
 
+f = 6
